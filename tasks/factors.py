@@ -6,8 +6,6 @@ def factors(number):
         if number % i == 0:
             output.append(i)
 
-    if len(output) == 0:
-        return f'{number} is a prime number'
     return output
     # ==============
 
