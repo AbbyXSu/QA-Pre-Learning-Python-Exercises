@@ -4,6 +4,10 @@ Below are three Python exercises designed to test your Python knowledge and prob
 
 The purpose of these exercises is to help you get familiar with solving Python problems and using Git.
 
+
+
+
+
 ## Instructions
 
 There are 3 tasks in this repository designed for you to complete before you begin your training with QA to get you familiar with Python. All of these foundation tasks should be completed **before** you begin your training. They can be found in the `tasks` folder.
@@ -54,6 +58,7 @@ Examples:
 print(vowel_swapper("aA eE iI oO uU")) # Should print "44 33 !! ooo000 |_||_|" to the console
 print(vowel_swapper("Hello World")) # Should print "H3llooo Wooorld" to the console 
 print(vowel_swapper("Everything's Available")) # Should print "3v3ryth!ng's 4v4!l4bl3" to the console
+Can use list comprehension 
 ```
 
 <details>
